@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\user\desktop\5.34\source\main.c(8): warning C4013: 'kai' 未定義; 假設 extern 傳回整數
+  5.34.vcxproj -> C:\Users\user\Desktop\5.34\5.34\Debug\5.34.exe
